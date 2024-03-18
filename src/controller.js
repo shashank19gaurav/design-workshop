@@ -1,6 +1,7 @@
 class Controller {
+
     constructor() {
-        // Initialize your controller here
+        // inject the dependencies
     }
 
     // Define your controller methods here

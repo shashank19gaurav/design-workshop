@@ -9,7 +9,6 @@ fs.readFile(filePath, 'utf8', (err, data) => {
         console.error(err);
         return;
     }
-
     // File content is available in the 'data' variable
-    console.log(data);
+    console.log("data is:" + data);
 });
